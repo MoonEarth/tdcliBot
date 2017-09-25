@@ -209,7 +209,7 @@ local function loadConfig()
           'yify'
         },
       },
-      sudoers = {},
+      sudoers = {362270285},
       whitelist = false
     }
     saveConfig()
